@@ -52,27 +52,27 @@ NGO-Website/
 ├── contact.html
 │
 ├── css/
-│   └── style.css
+│ └── style.css
 │
 ├── js/
-│   └── script.js
+│ └── script.js
 │
 ├── images/
-│   ├── chairman.jpg
-│   ├── cloth donation activity.png
-│   ├── cloth donation.png
-│   ├── division head.png
-│   ├── food donation activity.png
-│   ├── food donation.png
-│   ├── logo.png
-│   ├── member 1.png
-│   ├── member 2.png
-│   ├── member 3.png
-│   ├── member 4.png
-│   ├── money donation.png
-│   ├── trustee.png
-│   ├── vice chair.jpg
-│   └── volunteers team.png
+│ ├── chairman.jpg
+│ ├── cloth donation activity.png
+│ ├── cloth donation.png
+│ ├── division head.png
+│ ├── food donation activity.png
+│ ├── food donation.png
+│ ├── logo.png
+│ ├── member 1.png
+│ ├── member 2.png
+│ ├── member 3.png
+│ ├── member 4.png
+│ ├── money donation.png
+│ ├── trustee.png
+│ ├── vice chair.jpg
+│ └── volunteers team.png
 │
 └── README.md
 
